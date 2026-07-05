@@ -23,7 +23,12 @@ I’m a B.Tech undergraduate in Computer Science and Engineering (AI & ML) with 
 - Javascript
 - React.js
 - pandas , Numpy , Matplotlib , Scikit-learn
-- Flask  
+- Flask
+- Spring Boot
+- Spring MVC
+- REST APIs
+- MySQL
+- JDBC
 ---
 ## Contact
 - Email: ashish138169@gmail.com
