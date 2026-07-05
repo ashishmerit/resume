@@ -35,4 +35,4 @@ I’m a B.Tech undergraduate in Computer Science and Engineering (AI & ML) with 
 - LinkedIn: www.linkedin.com/in/ashish-ranjan-2a0844295  
 ---
 
-*Last updated: 15th February 2026*
+*Last updated: 5th july 2026*
