@@ -6,7 +6,7 @@ Welcome! This repository contains the most up-to-date version of my resume.
 ## Resume
 You can download my resume here:
 
--[Download Resume (PDF)](./resumeAshish.pdf)
+-[Download Resume (PDF)](./resumeAshishRanjan.pdf)
 ---  
 
 ## About Me
@@ -35,4 +35,4 @@ I’m a B.Tech undergraduate in Computer Science and Engineering (AI & ML) with 
 - LinkedIn: www.linkedin.com/in/ashish-ranjan-2a0844295  
 ---
 
-*Last updated: 5th july 2026*
+*Last updated: 30th sep 2026*
